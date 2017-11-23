@@ -1,0 +1,7 @@
+# Microsoft Developer Studio Generated Dependency File, included by flappybird2.mak
+
+.\flappybird.cpp : \
+	"..\..\college study\cs\编程软件\安装包及软件本体\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\college study\cs\编程软件\安装包及软件本体\microsoft visual studio\vc98\include\easyx.h"\
+	"..\..\college study\cs\编程软件\安装包及软件本体\microsoft visual studio\vc98\include\graphics.h"\
+	

@@ -1,0 +1,43 @@
+C语言图形函数(一)
+C语言图形编程(一,字符屏幕)
+一,屏幕操作函数
+1. clrscr()清除字符窗口函数
+2. window()字符窗口函数
+3. gotoxy()光标定位函数
+4. clreol() 清除光标行尾字符函数
+5. insline() 插入空行函数
+6. delline() 删除一行函数
+7. gettext() 拷进文字函数
+8. puttext() 拷出文字函数
+9. movetext() 移动文字函数
+二,字符属性函数
+10. textmode() 文本模式函数 
+11. highvideo()高亮度函数 
+12. lowvideo() 低亮度函数
+13. normvideo(void);
+14. textcolor() 文本颜色函数
+15. textattr() 文本属性函数
+16.textbackground() 文本背景函数
+三, 屏显状态函数
+17. wherex() 光标处x坐标函数
+18. wherey() 光标处y坐标函数
+19. gettextinfo() 获取文本窗口信息函数
+
+
+1. clrscr()清除字符窗口函数
+功能:函数clrscr()清除整个当前字符窗口,并且把光标定位于左上角(1,1)处.
+用法:此函数调用方式为 void clrscr(void);
+说明:括号中void 表示无参数
+
+
+2. window()字符窗口函数
+功能: 函数window()用于在指定位置建立一个字符窗口.
+用法: 此函数调用方式为 void window(int left,int top,int right,int bottom);
+
+
+3. gotoxy()光标定位函数
+功能: 函数gotoxy()将字屏幕上的光标移到当前窗口指定的位置上.
+用法: 这个函数调用方式为void gotoxy(int x,int y);
+说明: 括号里x,y是, 光标定位的坐标,如果其中一个坐标值无效(如坐标超界),那么光标不会移动.
+此函数在字符状态(有时称为文本状态)下经常用到 ,其相应的头文件为conio.h
+返回值:无
