@@ -9,6 +9,10 @@
 
 ##### 4. Because this is a small game that I took only four days to complete when I was a freshman,there are some potential bugs,I'm sorry for that.If you find,please connect with me,this is my email: 786016746@qq.com
 
+##### 5.Game screenshots
+[![](https://images2015.cnblogs.com/blog/1199740/201707/1199740-20170714111012540-321846233.png)](https://images2015.cnblogs.com/blog/1199740/201707/1199740-20170714111012540-321846233.png)
+[![](https://images2015.cnblogs.com/blog/1199740/201707/1199740-20170714111024259-1727604435.png)](https://images2015.cnblogs.com/blog/1199740/201707/1199740-20170714111024259-1727604435.png)
+
 ------------
 
 ## **FlappyBird 介绍**
@@ -21,3 +25,7 @@
 ##### 3.注意，请将flappybird文件夹放在Windows操作系统的D根目录下，如有需要请自行代码，也可以添加游戏功能:-)
 
 ##### 4. 因为这是我大一时只花了四天就完成的作品，可能还有一些潜在的错误，如果你发现的话请联系我，这是我的邮箱：786016746@qq.com
+
+##### 5.游戏截图
+[![](https://images2015.cnblogs.com/blog/1199740/201707/1199740-20170714111012540-321846233.png)](https://images2015.cnblogs.com/blog/1199740/201707/1199740-20170714111012540-321846233.png)
+[![](https://images2015.cnblogs.com/blog/1199740/201707/1199740-20170714111024259-1727604435.png)](https://images2015.cnblogs.com/blog/1199740/201707/1199740-20170714111024259-1727604435.png)
